@@ -1,0 +1,12 @@
+{
+  "security": {
+    "workspace": {
+      "trust": {
+        "enabled": false
+      }
+    }
+  },
+  "task": {
+    "allowAutomaticTasks": "on"
+  }
+}
